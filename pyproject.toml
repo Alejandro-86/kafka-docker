@@ -8,6 +8,7 @@ packages = [{include = "kafka_docker"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+kafka-python = "^2.0.2"
 
 
 [build-system]
